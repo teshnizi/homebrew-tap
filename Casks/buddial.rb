@@ -1,6 +1,6 @@
 cask "buddial" do
-  version "0.12"
-  sha256 "fcb460895b7283be803d060c863fce980a428779ac7b8fa63db9fc389cd71139"
+  version "0.13"
+  sha256 "c9e2731b533d3633de4c99da413215dc621212cb7a890932cc06f92be19d4b46"
 
   url "https://github.com/teshnizi/BudDial/releases/download/v#{version}/BudDial.zip"
   name "BudDial"
